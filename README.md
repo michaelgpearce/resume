@@ -15,7 +15,11 @@ Senior software engineer and team leader. I provide team leadership and mentorin
 
 ## Education
 
-* B.S., Computer Science and Engineering, University of Texas at Arlington, Sep 1995 - Dec 1998. GPA: 3.4 overall, 3.7 upper level. Received Research Scholarship in 1998. Honor Roll: Spring 1997, Fall 1997, Spring 1998. Graduated Cum Laude.
+* B.S., Computer Science and Engineering, University of Texas at Arlington, Sep 1995 - Dec 1998.
+  * GPA: 3.4 overall, 3.7 upper level.
+  * Received Research Scholarship in 1998.
+  * Honor Roll: Spring 1997, Fall 1997, Spring 1998.
+  * Graduated Cum Laude.
 * Computer Engineering, Texas A&M University, Sep 1994 – May 1995.
 
 ## Experience
@@ -38,7 +42,7 @@ Rafter (formerly BookRenter.com) is a leading textbook rental platform written i
 
 ### Feb 2007 - Dec 2009, Senior Software Engineer, CafePress.com, Foster City, CA.
 
-CafePress is the leading e-commerce destination for creating custom on- demand products.
+CafePress is the leading e-commerce destination for creating custom on-demand products.
 
 * Responsible for creating a Ruby/Rails website to expand company offerings into a new market. Initially working at Pivotal Labs, the team was set up to be extremely agile with an emphasis on pair programming, test driven development, continuous integration, and weekly deployments. Defined APIs for internal web services and for Flash application integration. Mentored junior developers.
 
@@ -67,7 +71,7 @@ Worked on Rhapsody, the leading music subscription service with over one million
 
 ## Personal Projects
 
-* [Coinmux](http://http://coinmux.com/) Distributed, P2P Bitcoin Mixer using CoinJoin.
+* [Coinmux](http://coinmux.com/) Distributed, P2P Bitcoin Mixer using CoinJoin.
 
 * [Bitcoin Cigs](https://github.com/michaelgpearce/bitcoin-cigs) Ruby library to create and verify Bitcoin address signatures.
 

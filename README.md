@@ -6,7 +6,7 @@ github: [michaelgpearce](https://github.com/michaelgpearce)
 
 ## Summary
 
-Software Engineer. Senior developer and team leader with expertise in Software Engineering (Object Oriented Programming and Design, Design Patterns, Refactoring, Service Oriented Architecture, Ruby, Java, and JavaScript), Web Engineering (HTML/XHTML, CSS, Ajax, JSON, jQuery, REST, Rails), Agile Software Development (Iteration Planning, Pair Programming, Test Driven Development, and Continuous Integration) and Production Quality Software (NewRelic, Scout). I provide team leadership and mentoring while priding myself on always creating high quality and elegant solutions to difficult technical challenges.
+Senior software developer and team leader with expertise in Software Engineering (Object Oriented Programming and Design, Design Patterns, Refactoring, Service Oriented Architecture, Ruby, Java, and JavaScript), Web Engineering (HTML/XHTML, CSS, Ajax, JSON, jQuery, REST, Rails), Agile Software Development (Iteration Planning, Pair Programming, Test Driven Development, and Continuous Integration) and Production Quality Software (NewRelic, Scout). I provide team leadership and mentoring while priding myself on always creating high quality and elegant solutions to difficult technical challenges.
 
 ## Education
 

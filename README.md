@@ -1,6 +1,7 @@
 # Michael Pearce
 
 email: [michaelgpearce@yahoo.com](mailto:michaelgpearce@yahoo.com)
+
 github: [michaelgpearce](https://github.com/michaelgpearce)
 
 ## Summary

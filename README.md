@@ -6,7 +6,12 @@ github: [michaelgpearce](https://github.com/michaelgpearce)
 
 ## Summary
 
-Senior software developer and team leader with expertise in Software Engineering (Object Oriented Programming and Design, Design Patterns, Refactoring, Service Oriented Architecture, Ruby, Java, and JavaScript), Web Engineering (HTML/XHTML, CSS, Ajax, JSON, jQuery, REST, Rails), Agile Software Development (Iteration Planning, Pair Programming, Test Driven Development, and Continuous Integration) and Production Quality Software (NewRelic, Scout). I provide team leadership and mentoring while priding myself on always creating high quality and elegant solutions to difficult technical challenges.
+Senior software engineer and team leader. I provide team leadership and mentoring while priding myself on always creating high quality and elegant solutions to difficult technical challenges.
+
+* Software Engineering - Object Oriented Programming and Design, Design Patterns, Refactoring, Service Oriented Architecture, Ruby, Java, and JavaScript
+* Web Engineering - HTML/XHTML, CSS, Ajax, JSON, jQuery, REST, Rails
+* Agile Software Development - Iteration Planning, Pair Programming, Test Driven Development, RSpec, and Continuous Integration
+* Production Quality Software - Redis, Membase, NewRelic, Scout
 
 ## Education
 
@@ -19,9 +24,9 @@ Senior software developer and team leader with expertise in Software Engineering
 
 Rafter (formerly BookRenter.com) is a leading textbook rental platform written in Ruby/Rails. Responsibilities include design and development for a $80M/year e-commerce website, large scale refactorings of core domain objects into services, evaluating and choosing new technologies, and providing leadership to fellow software developers.
 
-* Lead developer for pricing system – a critical piece of the e-commerce platform capable of handing 1000's of requests per minute. Lead a small team (3 to 4 developers) to successfully isolate the existing system by extracting logic to a web service from a monolithic Rails application. New architecture improved performance via horizontal scaling, caching, and parallelization.
+* Lead developer for pricing system – a critical piece of the e-commerce platform capable of handing 1000's of requests per minute. Lead team to successfully isolate existing system to a web service from a monolithic Rails application. New architecture improved performance via horizontal scaling, caching, and parallelization.
 
-* Designed and implemented a pricing language using a Parsing Expression Grammar (using Treetop library) to allow business owner to define rules. The rules engine allowed business owner to quickly change rules to meet evolving market conditions while allowing engineers to focus on defining interfaces and connecting to Rafter's web service infrastructure in a performant way (i.e. utilizing parallel web service invocations). Business owner's ability to change pricing strategies went from days to minutes.
+* Designed and implemented a pricing language using a Parsing Expression Grammar (using Treetop library) to allow business owner to define rules. Business owner's ability to react to evolving market conditions went from days to minutes without engineering involvement or software deployment.
 
 * Implemented job queueing using Redis/Resque to parallelize the processing of numerous multi-gigabyte XML feeds of book bibliographic data. Processing time for task went from over one day to only a few hours with the ability to further horizontally scale if needed.
 
@@ -35,7 +40,7 @@ Rafter (formerly BookRenter.com) is a leading textbook rental platform written i
 
 CafePress is the leading e-commerce destination for creating custom on- demand products.
 
-* Responsible for creating a Ruby/Rails website to expand company offerings into a new market. Initially working at Pivotal Labs, the team was set up to be extremely agile with an emphasis on pair programming, test driven development, continuous integration, and weekly deployments. Defined APIs for internal web services and for Flash application integration. Mentored more junior developers. Utilized Rails, RSpec, Cucumber, ScrewUnit + Blue Ridge, TeamCity, jQuery, MySQL, RESTful architecture, and EngineYard deployment.
+* Responsible for creating a Ruby/Rails website to expand company offerings into a new market. Initially working at Pivotal Labs, the team was set up to be extremely agile with an emphasis on pair programming, test driven development, continuous integration, and weekly deployments. Defined APIs for internal web services and for Flash application integration. Mentored junior developers.
 
 * Lead development to simplify tools offered to customers while also decreasing back-end server load. Created JSON interfaces that allowed time consuming tasks to be performed in batches while improving customer interactivity. Utilized .NET, C#, and jQuery.
 

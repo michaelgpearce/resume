@@ -54,19 +54,8 @@ Team leader and experienced software engineer. I provide team leadership and men
 
 * Refactored important business object to be able to read/write to two separate datastores (a SQL Server database and a parallel data storage web service) while maintaining data consistency. Utilized .NET, C#, SOAP.
 
-### Feb 2004 – Feb 2007, Technical Lead Software Development Engineer, RealNetworks, San Francisco, CA.
-
-Worked on Rhapsody (now [Napster](http://napster.com)), a leading music subscription service with over one million subscribers. The application utilizes the Resin Servlet container.
-
-* Lead and coordinated software developers in iteration planning with other teams working on Rhapsody: project management, quality assurance, and the product design team.
-
-* Lead the software design and implementation of a large application redesign using a custom Java web component architecture utilizing object oriented software design practices and patterns.
-
-* Worked with other software developers on the team to ensure high quality software, application of design patterns, and consistent coding practices, including unit testing.
-
-* Principal designer of a facade layer to separate commerce functionality written and owned by separate team.
-
 ### Additional Experience
+* Feb 2004 – Feb 2007, Technical Lead Software Development Engineer, RealNetworks, San Francisco, CA.
 * Apr 2003 - Dec 2003, Contract Software Engineer, Studio Electrica, San Francisco, CA.
 * Oct 2002 - Feb 2003, Software Engineer, Eyetide Media, San Francisco, CA.
 * Mar 2002 - May 2002, Software Engineer, Seabridge Software, San Francisco, CA.

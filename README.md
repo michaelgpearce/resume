@@ -2,7 +2,7 @@
 
 email: [michaelgpearce@yahoo.com](mailto:michaelgpearce@yahoo.com)
 
-github: [michaelgpearce](https://github.com/michaelgpearce)
+github: [github.com/michaelgpearce](https://github.com/michaelgpearce)
 
 resume: [michaelgpearce.github.io/resume](http://michaelgpearce.github.io/resume/)
 

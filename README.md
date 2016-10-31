@@ -4,13 +4,15 @@ email: [michaelgpearce@yahoo.com](mailto:michaelgpearce@yahoo.com)
 
 github: [michaelgpearce](https://github.com/michaelgpearce)
 
+resume: [resume](http://michaelgpearce.github.io/resume)
+
 ## Summary
 
-Senior software engineer and team leader. I provide team leadership and mentoring while priding myself on always creating high quality and elegant solutions to difficult technical challenges.
+Team leader and experienced software engineer. I provide team leadership and mentoring while priding myself on always creating high quality and elegant solutions to difficult technical challenges.
 
-* Software Engineering - Object Oriented Programming and Design, Design Patterns, Refactoring, Service Oriented Architecture, Ruby, Java, and JavaScript
-* Web Engineering - HTML/XHTML, CSS, Ajax, JSON, jQuery, REST, Rails
-* Agile Software Development - Iteration Planning, Pair Programming, Test Driven Development, RSpec, and Continuous Integration
+* Software Engineering - Object Oriented Programming and Design, Design Patterns, Refactoring, Service Oriented Architecture, Ruby, Java, JavaScript
+* Web Engineering - Rails, React, HTML, CSS, Ajax, JSON, jQuery, REST
+* Agile Software Development - Iteration Planning, Pair Programming, Test Driven Development, RSpec, Continuous Integration
 * Production Quality Software - Redis, Membase, NewRelic, Scout
 
 ## Education
@@ -24,9 +26,11 @@ Senior software engineer and team leader. I provide team leadership and mentorin
 
 ## Experience
 
-### Jan 2010 - present, Lead Software Engineer, Rafter / Bookrenter.com, San Mateo, CA.
+### Jan 2010 - Oct 2016, Director of Engineering / Lead Software Engineer, Rafter / Bookrenter.com, San Mateo, CA.
 
-Rafter (formerly BookRenter.com) is a leading textbook rental platform written in Ruby/Rails. Responsibilities include design and development for a $80M/year e-commerce website, large scale refactorings of core domain objects into services, evaluating and choosing new technologies, and providing leadership to fellow software developers.
+Rafter (formerly BookRenter.com) is an education materials platform written in a combination of Ruby/Rails and React. Responsibilities include providing leadership to multiple tracks of product development, management of numerous software engineers at all experience levels, evaluating and evengelizing new technologies, design and development for a $80M/year e-commerce website, and large scale refactorings of core domain objects into services.
+
+* Director of engineering - provided leadership to a team of 10 engineers. Worked with engineering team to transition our front end architecture to React. Instituted bi-weekly demonstations among the product/design/engineering teams. Coordinated and lead engineering team's maintenance projects. Continued and lead tradition of "Rafter Hacks" for developers to try new technologies and build new tools on a bi-annual basis.
 
 * Lead developer for pricing system – a critical piece of the e-commerce platform capable of handing 1000's of requests per minute. Lead team to successfully isolate existing system to a web service from a monolithic Rails application. New architecture improved performance via horizontal scaling, caching, and parallelization.
 
@@ -52,7 +56,7 @@ CafePress is the leading e-commerce destination for creating custom on-demand pr
 
 ### Feb 2004 – Feb 2007, Technical Lead Software Development Engineer, RealNetworks, San Francisco, CA.
 
-Worked on Rhapsody, the leading music subscription service with over one million subscribers. The application utilizes the Resin Servlet container.
+Worked on Rhapsody (now Napster), a leading music subscription service with over one million subscribers. The application utilizes the Resin Servlet container.
 
 * Lead and coordinated software developers in iteration planning with other teams working on Rhapsody: project management, quality assurance, and the product design team.
 

@@ -28,7 +28,7 @@ Team leader and experienced software engineer. I provide team leadership and men
 
 ### Jan 2010 - Oct 2016, Director of Engineering / Lead Software Engineer, Rafter / Bookrenter.com, San Mateo, CA.
 
-Rafter (formerly BookRenter.com) is an education materials platform written in a combination of Ruby/Rails and React. Responsibilities include providing leadership to multiple tracks of product development, management of numerous software engineers at all experience levels, evaluating and evengelizing new technologies, design and development for a $80M/year e-commerce website, and large scale refactorings of core domain objects into services.
+[Rafter](http://rafter.com) (formerly BookRenter.com, currently out of business) is an education materials platform written in a combination of Ruby/Rails and React. Responsibilities include providing leadership to multiple tracks of product development, management of numerous software engineers at all experience levels, evaluating and evengelizing new technologies, design and development for a $80M/year e-commerce website, and large scale refactorings of core domain objects into services.
 
 * Director of engineering - provided leadership to a team of 10 engineers. Worked with engineering team to transition our front end architecture to React. Instituted bi-weekly demonstations among the product/design/engineering teams. Coordinated and lead engineering team's maintenance projects. Continued and lead tradition of "Rafter Hacks" for developers to try new technologies and build new tools on a bi-annual basis.
 
@@ -46,7 +46,7 @@ Rafter (formerly BookRenter.com) is an education materials platform written in a
 
 ### Feb 2007 - Dec 2009, Senior Software Engineer, CafePress.com, Foster City, CA.
 
-CafePress is the leading e-commerce destination for creating custom on-demand products.
+[CafePress](http://www.cafepress.com) is the leading e-commerce destination for creating custom on-demand products.
 
 * Responsible for creating a Ruby/Rails website to expand company offerings into a new market. Initially working at Pivotal Labs, the team was set up to be extremely agile with an emphasis on pair programming, test driven development, continuous integration, and weekly deployments. Defined APIs for internal web services and for Flash application integration. Mentored junior developers.
 
@@ -56,7 +56,7 @@ CafePress is the leading e-commerce destination for creating custom on-demand pr
 
 ### Feb 2004 – Feb 2007, Technical Lead Software Development Engineer, RealNetworks, San Francisco, CA.
 
-Worked on Rhapsody (now Napster), a leading music subscription service with over one million subscribers. The application utilizes the Resin Servlet container.
+Worked on Rhapsody (now [Napster](http://napster.com)), a leading music subscription service with over one million subscribers. The application utilizes the Resin Servlet container.
 
 * Lead and coordinated software developers in iteration planning with other teams working on Rhapsody: project management, quality assurance, and the product design team.
 
